@@ -1,10 +1,9 @@
 # credit-risk-classification
-Supervised learning Challenge 20 Assignment
+## Supervised learning Challenge 20 Assignment
 
-For this assignment there were three requirements as given below:
+* For this assignment there were three requirements as given below:
 
 * Split the Data into Training and Testing Sets
-  
        * Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
        * Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
        * Split the data into training and testing datasets by using train_test_split.
